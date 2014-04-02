@@ -7,3 +7,4 @@ all: $(targets)
 
 clean:
 	rm -rf $(targets)
+	
